@@ -4,3 +4,11 @@
  background-color: red;  
  position: relative;
 }
+.p-date{
+ padding:70px ; 
+  color:#ffffff ;
+  font-weight: 700;
+  font-size: large;
+  font-family: Arial, Helvetica, sans-serif; 
+}
+
