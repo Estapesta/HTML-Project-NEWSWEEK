@@ -12,11 +12,13 @@
   font-family: Arial, Helvetica, sans-serif; 
 }
 .div-2{
+ margin-left: 12px;
 font-weight: bold;
 font-size: large;
 font-family: Arial, Helvetica, sans-serif;
 }
 .div-3{
+  margin-left: 20px;
   font-weight: bold;
   font-size: large;
   font-family: Arial, Helvetica, sans-serif;
